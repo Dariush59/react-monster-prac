@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dariush59/react-monster-prac/static/css/main.56482235.chunk.css",
-    "main.js": "/dariush59/react-monster-prac/static/js/main.87063c69.chunk.js",
-    "main.js.map": "/dariush59/react-monster-prac/static/js/main.87063c69.chunk.js.map",
-    "runtime-main.js": "/dariush59/react-monster-prac/static/js/runtime-main.01388166.js",
-    "runtime-main.js.map": "/dariush59/react-monster-prac/static/js/runtime-main.01388166.js.map",
-    "static/js/2.c199bb00.chunk.js": "/dariush59/react-monster-prac/static/js/2.c199bb00.chunk.js",
-    "static/js/2.c199bb00.chunk.js.map": "/dariush59/react-monster-prac/static/js/2.c199bb00.chunk.js.map",
-    "static/js/3.b1d47882.chunk.js": "/dariush59/react-monster-prac/static/js/3.b1d47882.chunk.js",
-    "static/js/3.b1d47882.chunk.js.map": "/dariush59/react-monster-prac/static/js/3.b1d47882.chunk.js.map",
-    "index.html": "/dariush59/react-monster-prac/index.html",
-    "static/css/main.56482235.chunk.css.map": "/dariush59/react-monster-prac/static/css/main.56482235.chunk.css.map",
-    "static/js/2.c199bb00.chunk.js.LICENSE.txt": "/dariush59/react-monster-prac/static/js/2.c199bb00.chunk.js.LICENSE.txt"
+    "main.css": "/react-monster-prac/static/css/main.56482235.chunk.css",
+    "main.js": "/react-monster-prac/static/js/main.87063c69.chunk.js",
+    "main.js.map": "/react-monster-prac/static/js/main.87063c69.chunk.js.map",
+    "runtime-main.js": "/react-monster-prac/static/js/runtime-main.fd67011d.js",
+    "runtime-main.js.map": "/react-monster-prac/static/js/runtime-main.fd67011d.js.map",
+    "static/js/2.c199bb00.chunk.js": "/react-monster-prac/static/js/2.c199bb00.chunk.js",
+    "static/js/2.c199bb00.chunk.js.map": "/react-monster-prac/static/js/2.c199bb00.chunk.js.map",
+    "static/js/3.b1d47882.chunk.js": "/react-monster-prac/static/js/3.b1d47882.chunk.js",
+    "static/js/3.b1d47882.chunk.js.map": "/react-monster-prac/static/js/3.b1d47882.chunk.js.map",
+    "index.html": "/react-monster-prac/index.html",
+    "static/css/main.56482235.chunk.css.map": "/react-monster-prac/static/css/main.56482235.chunk.css.map",
+    "static/js/2.c199bb00.chunk.js.LICENSE.txt": "/react-monster-prac/static/js/2.c199bb00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01388166.js",
+    "static/js/runtime-main.fd67011d.js",
     "static/js/2.c199bb00.chunk.js",
     "static/css/main.56482235.chunk.css",
     "static/js/main.87063c69.chunk.js"
